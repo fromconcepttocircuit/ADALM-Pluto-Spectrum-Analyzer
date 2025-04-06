@@ -64,16 +64,24 @@ cd ADALM-Pluto-Spectrum-Analyzer
 ### 2. **Install Required Python Libraries**
 
 ```bash
-pip install numpy scipy pyqt6 pyqtgraph analogdevices-interface
+pip install pyadi-iio numpy scipy pyqt6 pyqtgraph
 ```
 
-### 3. **Run the Spectrum Analyzer**
+### 3. **Linux Users: Install Additional System Package**
+
+If you're on **Linux**, install this to avoid missing Qt plugin errors:
+
+```bash
+sudo apt install libxcb-cursor-dev
+```
+
+### 4. **Run the Spectrum Analyzer**
 
 ```bash
 python spectrum_analyzer.py
 ```
 
-### 4. **Connect ADALM Pluto SDR**
+### 5. **Connect ADALM Pluto SDR**
 
 - Make sure **ADALM Pluto is connected and reachable** at its default IP: `192.168.2.1`.  
 - You can adjust the IP address in the code if necessary:
@@ -81,7 +89,6 @@ python spectrum_analyzer.py
 ```python
 self.sdr = adi.ad9361(uri='ip:192.168.2.1')
 ```
-
 ---
 
 ## ⚙️ Adjust Sweep and Settings in GUI
