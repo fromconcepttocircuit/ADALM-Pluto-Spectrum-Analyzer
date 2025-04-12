@@ -138,4 +138,8 @@ If you try this project and have feedback or improvements, **feel free to open a
 
 ---
 
+### ☕ Support My Work  
+If you find this project helpful, consider supporting me:  
+[Buy Me a Coffee](https://buymeacoffee.com/concepttoco)
+
 #ADALMPluto #SpectrumAnalyzer #ElectromagneticWaves #RFSignals #PythonProjects #SDR #WirelessSignals
