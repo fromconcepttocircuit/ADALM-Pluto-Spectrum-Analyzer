@@ -9,8 +9,8 @@ This project turns an **ADALM Pluto SDR** into a **real-time Spectrum Analyzer**
 ## 📡 See It In Action (Video Demo)
 
 🎬 **Watch the full video demo and tutorial on YouTube**:  
-[![Watch the video](https://img.youtube.com/vi/aKFjk-2SaZ8/0.jpg)](https://www.youtube.com/watch?v=aKFjk-2SaZ8)
 
+[![Watch the video](https://img.youtube.com/vi/aKFjk-2SaZ8/0.jpg)](https://www.youtube.com/watch?v=aKFjk-2SaZ8)
 
 ---
 
