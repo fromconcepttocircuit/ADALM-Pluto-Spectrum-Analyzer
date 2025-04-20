@@ -4,6 +4,13 @@
 **See invisible electromagnetic waves around you!**  
 This project turns an **ADALM Pluto SDR** into a **real-time Spectrum Analyzer** using **Python** and **PyQt**, allowing you to visualize Wi-Fi, LTE, GSM, Bluetooth, and other RF signals that are constantly present in our environment.
 
+---
+
+## 📡 See It In Action (Video Demo)
+
+🎬 **Watch the full video demo and tutorial on YouTube**:  
+[![Watch the video](https://img.youtube.com/vi/aKFjk-2SaZ8/0.jpg)](https://www.youtube.com/watch?v=aKFjk-2SaZ8)
+
 
 ---
 
@@ -33,12 +40,6 @@ In this project, we build a **real-time Spectrum Analyzer using ADALM Pluto SDR 
 - ✅ Fully adjustable sweep and filter settings via GUI
 - ✅ Data export to CSV
 
----
-
-## 📡 See It In Action (Video Demo)
-
-🎬 **Watch the full video demo and tutorial on YouTube**:  
-👉 https://youtu.be/aKFjk-2SaZ8
 
 ---
 
