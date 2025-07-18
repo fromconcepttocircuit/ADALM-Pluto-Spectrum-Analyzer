@@ -116,9 +116,7 @@ self.sdr = adi.ad9361(uri='ip:192.168.2.1')
 - 📱 **LTE / GSM / AWS bands**
 - 🎧 **Bluetooth devices**
 
-### ☕ Support My Work  
-If you find this project helpful, consider supporting me:  
-[Buy Me a Coffee](https://buymeacoffee.com/concepttoco)
+
 
 ---
 
